@@ -89,7 +89,7 @@ YAHOO_CLIENT_SECRET=your_yahoo_client_secret
 YAHOO_REFRESH_TOKEN=your_yahoo_refresh_token
 DISCORD_TOKEN=your_discord_bot_token
 DISCORD_CHANNEL_ID=your_discord_channel_id
-LEAGUE_KEY=nfl.l.123456
+FANTASY_LEAGUE_KEY=nfl.l.123456
 ```
 
 ---
