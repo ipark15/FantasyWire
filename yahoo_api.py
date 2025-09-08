@@ -6,7 +6,7 @@ load_dotenv()
 YAHOO_CLIENT_ID = os.getenv("YAHOO_CLIENT_ID")
 YAHOO_CLIENT_SECRET = os.getenv("YAHOO_CLIENT_SECRET")
 YAHOO_REFRESH_TOKEN = os.getenv("YAHOO_REFRESH_TOKEN")
-FANTASY_LEAGUE_KEY = os.getenv("LEAGUE_KEY")
+FANTASY_LEAGUE_KEY = os.getenv("FANTASY_LEAGUE_KEY")
 def refresh_access_token():
     url = "https://api.login.yahoo.com/oauth2/get_token"
     data = {
